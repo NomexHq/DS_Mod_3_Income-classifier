@@ -54,7 +54,7 @@ Training F1 Score: 0.6207035988677719
 Testing F1 Score: 0.6225369458128078  
 
 * Confusion matrix  
-![char6](Visuals/LogRegCM.png)<br>
+![char8](Visuals/LogRegCM.png)<br>
 
 **KNN**
 
@@ -62,9 +62,28 @@ KNN Accuracy:0.8122270742358079
 KNN F1: 0.6039147956246402  
 
 * Confusion matrix  
-![char6](Visuals/KNNCM.png)<br>
+![char9](Visuals/KNNCM.png)<br>
 
 * Optimal K-value  
-![char6](Visuals/BestKNN.png)<br>
+![char10](Visuals/BestKNN.png)<br>
+
+**DecisionTreeClassifier**  
+
+Decision Tree Accuracy: 0.7838427947598253  
+
+Training F1 Score: 0.9318718699801568  
+Testing F1 Score: 0.5522894290559638  
+
+* Confusion matrix  
+![char11](Visuals/.png)<br>
+
+After gridsearch:  
+
+F1_Score: 0.6379165499859984
+Decision Tree Accuracy: 0.8235534934497817
+
+* Post-gridsearch confusion matrix  
+![char12](Visuals/.png)<br>
+
 
 
