@@ -93,7 +93,7 @@ Training F1 Score: 0.9338714115381087
 Testing F1 Score: 0.5974787452360012  
 
 * Confusion matrix  
-![char11](Visuals/)<br>
+![char11](Visuals/RFCM.png)<br>
 
 
 
