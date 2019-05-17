@@ -44,5 +44,13 @@ age, workclass, fnlwgt, education, education-num, marital-status, relationship, 
 ![char7](Visuals/sex_edu.png)<br>
 
 ## Initial modelling (no interraction terms, no rebalancing, no feature selection)
+**LogReg**  
+LogReg Accuracy: 0.8326965065502183  
+LogReg Precision: 0.6986869384934347  
+LogReg Recall: 0.5613548028872848  
+
+Training F1 Score: 0.6207035988677719  
+Testing F1 Score: 0.6225369458128078  
+
 
 
