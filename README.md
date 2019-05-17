@@ -62,7 +62,7 @@ KNN Accuracy:0.8122270742358079
 KNN F1: 0.6039147956246402  
 
 * Confusion matrix  
-![char6](Visuals/LogRegCM.png)<br>
+![char6](Visuals/KNNCM.png)<br>
 
 * Optimal K-value  
 ![char6](Visuals/BestKNN.png)<br>
