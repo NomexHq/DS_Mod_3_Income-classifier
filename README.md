@@ -37,11 +37,11 @@ age, workclass, fnlwgt, education, education-num, marital-status, relationship, 
 * Working sector by income distribution
 ![char5](Visuals/Sector_by_income.pdf)<br> 
 
-* Difference in age and income distribution by gender . 
-![char5](Visuals/sex_age.pdf)<br>
+* Difference in age and income distribution by gender  
+![char6](Visuals/sex_age.pdf)<br>
 
 * Difference in education and income distribution by gender  
-![char6](Visuals/sex_edu.pdf)<br>
+![char7](Visuals/sex_edu.pdf)<br>
 
 ## Initial modelling  
 
