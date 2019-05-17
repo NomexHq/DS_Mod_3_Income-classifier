@@ -52,5 +52,6 @@ LogReg Recall: 0.5613548028872848
 Training F1 Score: 0.6207035988677719  
 Testing F1 Score: 0.6225369458128078  
 
-
+* Confusion matrix  
+![char6](Visuals/LogRegCM.png)<br>
 
