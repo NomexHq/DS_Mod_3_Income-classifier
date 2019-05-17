@@ -108,5 +108,5 @@ Accuracy: 0.845104
 F1: 0.663704
 
 * Confusion matrix  
-![char11](Visuals/)<br>
+![char11](Visuals/XGBCM.png)<br>
 
