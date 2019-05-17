@@ -22,8 +22,8 @@ age, workclass, fnlwgt, education, education-num, marital-status, relationship, 
 * outliers were removed based on 3sd principle
 
 ## EDA insights
-* Potential issue with class inbalance
-[[/Visuals/balance.png|class_balance_check]]  
+* Potential issue with class inbalance  
+!(/Visuals/balance.png)
 
 * Gender by income distribution
 [[/Visuals/Gen_by_income.png|gender_income]]  
@@ -44,6 +44,5 @@ age, workclass, fnlwgt, education, education-num, marital-status, relationship, 
 [[/Visuals/sex_edu.pdf|diff2]]  
 
 ## Initial modelling  
-
 
 
