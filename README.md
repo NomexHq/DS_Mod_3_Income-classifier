@@ -45,6 +45,7 @@ age, workclass, fnlwgt, education, education-num, marital-status, relationship, 
 
 ## Initial modelling (no interraction terms, no rebalancing, no feature selection)
 **LogReg**  
+
 LogReg Accuracy: 0.8326965065502183  
 LogReg Precision: 0.6986869384934347  
 LogReg Recall: 0.5613548028872848  
@@ -54,4 +55,16 @@ Testing F1 Score: 0.6225369458128078
 
 * Confusion matrix  
 ![char6](Visuals/LogRegCM.png)<br>
+
+**KNN**
+
+KNN Accuracy:0.8122270742358079  
+KNN F1: 0.6039147956246402  
+
+* Confusion matrix  
+![char6](Visuals/LogRegCM.png)<br>
+
+* Optimal K-value  
+![char6](Visuals/BestKNN.png)<br>
+
 
