@@ -112,6 +112,7 @@ F1: 0.663704
 
 ## Next steps:
 * rerun models on data with interaction terms
+* consider feature selection
 * rerun models on data with PCA
 * rerun models on rebalanced data
 * tune the best model
