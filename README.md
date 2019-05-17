@@ -75,7 +75,7 @@ Training F1 Score: 0.9318718699801568
 Testing F1 Score: 0.5522894290559638  
 
 * Confusion matrix  
-![char11](Visuals/.png)<br>
+![char11](Visuals/DTCM.png)<br>
 
 After gridsearch:  
 
@@ -83,7 +83,7 @@ F1_Score: 0.6379165499859984
 Decision Tree Accuracy: 0.8235534934497817
 
 * Post-gridsearch confusion matrix  
-![char12](Visuals/.png)<br>
+![char12](Visuals/DTCM_grid.png)<br>
 
 
 
