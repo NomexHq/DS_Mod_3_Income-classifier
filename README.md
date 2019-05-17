@@ -79,11 +79,21 @@ Testing F1 Score: 0.5522894290559638
 
 After gridsearch:  
 
-F1_Score: 0.6379165499859984
+F1_Score: 0.6379165499859984  
 Decision Tree Accuracy: 0.8235534934497817
 
 * Post-gridsearch confusion matrix  
 ![char12](Visuals/DTCM_grid.png)<br>
+
+**Random Forrest**  
+
+Random Forrest Accuracy: 0.8126364628820961  
+
+Training F1 Score: 0.9338714115381087  
+Testing F1 Score: 0.5974787452360012  
+
+* Confusion matrix  
+![char11](Visuals/)<br>
 
 
 
