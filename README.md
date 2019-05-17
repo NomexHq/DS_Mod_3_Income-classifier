@@ -95,5 +95,18 @@ Testing F1 Score: 0.5974787452360012
 * Confusion matrix  
 ![char11](Visuals/RFCM.png)<br>
 
+**XGBoost**  
+initial parameters:
+objective ='binary:logistic'  
+colsample_bytree = 0.3  
+learning_rate = 0.1  
+max_depth = 5  
+alpha = 10  
+n_estimators = 200  
 
+Accuracy: 0.845104
+F1: 0.663704
+
+* Confusion matrix  
+![char11](Visuals/)<br>
 
