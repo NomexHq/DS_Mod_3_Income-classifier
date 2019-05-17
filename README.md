@@ -25,23 +25,23 @@ age, workclass, fnlwgt, education, education-num, marital-status, relationship, 
 * Potential issue with class inbalance  
 ![char1](Visuals/balance.png)<br>
 
-* Gender by income distribution
-[[/Visuals/Gen_by_income.png|gender_income]]  
+* Gender by income distribution  
+![char2](Visuals/Gen_by_income.png)<br>
 
 * Marital status by income distribution
-[[/Visuals/Mar_by_income.png|mar_income]]  
+![char3](Visuals/Mar_by_income.png)<br> 
 
 * Education by income distribution
-[[/Visuals/Edu_by_income.png|edu_income]]  
+![char4](Visuals/Edu_by_income.png)<br> 
 
 * Working sector by income distribution
-[[/Visuals/Sector_by_income.pdf|sec_income]]  
+![char5](Visuals/Sector_by_income.pdf)<br> 
 
 * Difference in age and income distribution by gender . 
-[[/Visuals/sex_age.pdf|diff1]]  
+![char5](Visuals/sex_age.pdf)<br>
 
 * Difference in education and income distribution by gender  
-[[/Visuals/sex_edu.pdf|diff2]]  
+![char6](Visuals/sex_edu.pdf)<br>
 
 ## Initial modelling  
 
