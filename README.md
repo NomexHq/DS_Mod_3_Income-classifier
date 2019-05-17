@@ -1,12 +1,12 @@
 # DS_Mod_3_Income_classifier
-Project attmepts to build an income level clasification model by applying various classification algorithms.  
+The project attempts to build an income level classification model by applying various classification algorithms.  
 
 ## Task
 Predicting income level (below or above 50K / year) based on various socio-economic attributes.  
 
 ## Data
 The dataset is taken from UCI machine learning repository.  
-Extraction was done from the 1994 Census database.  
+Extraction was done from the 1994 US Census database.  
 
 **Target Variable:**  
 income level >50K and <=50K
@@ -18,12 +18,11 @@ age, workclass, fnlwgt, education, education-num, marital-status, relationship, 
 * useless and redundant columns removed ('fnlwgt', 'capital-gain', 'capital-loss', 'relationship')
 * transformation of categorical variables into 1 and 0
 * values that made no meaningful sense were removed
-* in order to cut down the amount of categories in variables, some of the values were removed or merged with larger categories where it was meaningful 
+* in order to cut down the number of categories in variables, some of the values were removed or merged with larger categories where it was meaningful 
 * outliers were removed based on 3sd principle
 
 ## EDA insights
 * Potential issue with class inbalance  
-<p align="center">
 ![char1](Visuals/balance.png)<br>
 
 * Gender by income distribution  
@@ -111,3 +110,8 @@ F1: 0.663704
 * Confusion matrix  
 ![char11](Visuals/XGBCM.png)<br>
 
+## Next steps:
+* rerun models on data with interaction terms
+* rerun models on data with PCA
+* rerun models on rebalanced data
+* tune the best model
