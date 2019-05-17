@@ -23,7 +23,7 @@ age, workclass, fnlwgt, education, education-num, marital-status, relationship, 
 
 ## EDA insights
 * Potential issue with class inbalance  
-!(Visuals/balance.png)
+![char1](Visuals/balance.png)<br>
 
 * Gender by income distribution
 [[/Visuals/Gen_by_income.png|gender_income]]  
