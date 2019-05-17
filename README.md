@@ -43,6 +43,6 @@ age, workclass, fnlwgt, education, education-num, marital-status, relationship, 
 * Difference in education and income distribution by gender  
 ![char7](Visuals/sex_edu.png)<br>
 
-## Initial modelling  
+## Initial modelling (no interraction terms, no rebalancing, no feature selection)
 
 
